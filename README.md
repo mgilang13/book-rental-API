@@ -8,7 +8,7 @@ For development, you will only need Node.js and a node global package, npm, inst
 
 ## Install
 
-    $ git clone https://github.com/badawi1713/book-rental-API
+    $ git clone https://github.com/badawi1713/book-rental-API.git
     $ cd book-rental-API
     $ npm install
 
