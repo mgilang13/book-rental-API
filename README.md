@@ -14,7 +14,7 @@ For development, you will only need Node.js and a node global package, npm, inst
     
 ## Import the database
 
-    The mysql database file is already on this repository, you can find it by open the database directory, and import it into your phpMyAdmin.
+   ##### The mysql database file is already on this repository, you can find it by open the database directory, and import it into your phpMyAdmin.
 
 ## Running the project
 
