@@ -11,6 +11,8 @@ For development, you will only need Node.js and a node global package, npm, inst
     $ git clone https://github.com/badawi1713/book-rental-API.git
     $ cd book-rental-API
     $ npm install
+    
+## Import the database first into your PHPMyAdmin (Because I'm using MySQL)
 
 ## Running the project
 
